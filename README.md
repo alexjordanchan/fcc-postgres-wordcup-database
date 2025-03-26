@@ -17,6 +17,8 @@ Complete the empty `echo` commands in the `queries.sh` file to produce outpu
 - The file has some starter code, and the first query is completed for you. Use the `PSQL` variable defined to complete rest of the queries.
 - **Note** that you need to have your database filled with the correct data from the script to get the correct results from your queries.
 
+  
+
 ## Requirements & My Solutions
 - You should create a database named worldcup
 ```
